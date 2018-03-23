@@ -1,0 +1,10 @@
+C:\Users\Sakitowea\source\repos\Coladera de Erastoteles\Coladera de Erastoteles\bin\Debug\Coladera de Erastoteles.exe.config
+C:\Users\Sakitowea\source\repos\Coladera de Erastoteles\Coladera de Erastoteles\bin\Debug\Coladera de Erastoteles.exe
+C:\Users\Sakitowea\source\repos\Coladera de Erastoteles\Coladera de Erastoteles\bin\Debug\Coladera de Erastoteles.pdb
+C:\Users\Sakitowea\source\repos\Coladera de Erastoteles\Coladera de Erastoteles\obj\Debug\Coladera de Erastoteles.csprojResolveAssemblyReference.cache
+C:\Users\Sakitowea\source\repos\Coladera de Erastoteles\Coladera de Erastoteles\obj\Debug\Coladera_de_Erastoteles.Form1.resources
+C:\Users\Sakitowea\source\repos\Coladera de Erastoteles\Coladera de Erastoteles\obj\Debug\Coladera_de_Erastoteles.Properties.Resources.resources
+C:\Users\Sakitowea\source\repos\Coladera de Erastoteles\Coladera de Erastoteles\obj\Debug\Coladera de Erastoteles.csproj.GenerateResource.Cache
+C:\Users\Sakitowea\source\repos\Coladera de Erastoteles\Coladera de Erastoteles\obj\Debug\Coladera de Erastoteles.csproj.CoreCompileInputs.cache
+C:\Users\Sakitowea\source\repos\Coladera de Erastoteles\Coladera de Erastoteles\obj\Debug\Coladera de Erastoteles.exe
+C:\Users\Sakitowea\source\repos\Coladera de Erastoteles\Coladera de Erastoteles\obj\Debug\Coladera de Erastoteles.pdb
