@@ -1,0 +1,10 @@
+C:\Users\Sakitowea\source\repos\Liebre y tortuga\Liebre y tortuga\bin\Debug\Liebre y tortuga.exe.config
+C:\Users\Sakitowea\source\repos\Liebre y tortuga\Liebre y tortuga\bin\Debug\Liebre y tortuga.exe
+C:\Users\Sakitowea\source\repos\Liebre y tortuga\Liebre y tortuga\bin\Debug\Liebre y tortuga.pdb
+C:\Users\Sakitowea\source\repos\Liebre y tortuga\Liebre y tortuga\obj\Debug\Liebre y tortuga.csprojResolveAssemblyReference.cache
+C:\Users\Sakitowea\source\repos\Liebre y tortuga\Liebre y tortuga\obj\Debug\Liebre_y_tortuga.Form1.resources
+C:\Users\Sakitowea\source\repos\Liebre y tortuga\Liebre y tortuga\obj\Debug\Liebre_y_tortuga.Properties.Resources.resources
+C:\Users\Sakitowea\source\repos\Liebre y tortuga\Liebre y tortuga\obj\Debug\Liebre y tortuga.csproj.GenerateResource.Cache
+C:\Users\Sakitowea\source\repos\Liebre y tortuga\Liebre y tortuga\obj\Debug\Liebre y tortuga.csproj.CoreCompileInputs.cache
+C:\Users\Sakitowea\source\repos\Liebre y tortuga\Liebre y tortuga\obj\Debug\Liebre y tortuga.exe
+C:\Users\Sakitowea\source\repos\Liebre y tortuga\Liebre y tortuga\obj\Debug\Liebre y tortuga.pdb
