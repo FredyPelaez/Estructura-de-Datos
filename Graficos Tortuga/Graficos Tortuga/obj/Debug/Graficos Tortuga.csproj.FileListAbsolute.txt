@@ -1,0 +1,10 @@
+C:\Users\Sakitowea\source\repos\Graficos Tortuga\Graficos Tortuga\bin\Debug\Graficos Tortuga.exe.config
+C:\Users\Sakitowea\source\repos\Graficos Tortuga\Graficos Tortuga\bin\Debug\Graficos Tortuga.exe
+C:\Users\Sakitowea\source\repos\Graficos Tortuga\Graficos Tortuga\bin\Debug\Graficos Tortuga.pdb
+C:\Users\Sakitowea\source\repos\Graficos Tortuga\Graficos Tortuga\obj\Debug\Graficos Tortuga.csprojResolveAssemblyReference.cache
+C:\Users\Sakitowea\source\repos\Graficos Tortuga\Graficos Tortuga\obj\Debug\Graficos_Tortuga.Form1.resources
+C:\Users\Sakitowea\source\repos\Graficos Tortuga\Graficos Tortuga\obj\Debug\Graficos_Tortuga.Properties.Resources.resources
+C:\Users\Sakitowea\source\repos\Graficos Tortuga\Graficos Tortuga\obj\Debug\Graficos Tortuga.csproj.GenerateResource.Cache
+C:\Users\Sakitowea\source\repos\Graficos Tortuga\Graficos Tortuga\obj\Debug\Graficos Tortuga.csproj.CoreCompileInputs.cache
+C:\Users\Sakitowea\source\repos\Graficos Tortuga\Graficos Tortuga\obj\Debug\Graficos Tortuga.exe
+C:\Users\Sakitowea\source\repos\Graficos Tortuga\Graficos Tortuga\obj\Debug\Graficos Tortuga.pdb
