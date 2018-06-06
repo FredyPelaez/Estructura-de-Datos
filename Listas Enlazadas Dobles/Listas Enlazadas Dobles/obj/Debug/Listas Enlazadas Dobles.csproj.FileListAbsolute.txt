@@ -1,0 +1,10 @@
+C:\Users\Sakitowea\source\repos\Listas Enlazadas Dobles\Listas Enlazadas Dobles\bin\Debug\Listas Enlazadas Dobles.exe.config
+C:\Users\Sakitowea\source\repos\Listas Enlazadas Dobles\Listas Enlazadas Dobles\bin\Debug\Listas Enlazadas Dobles.exe
+C:\Users\Sakitowea\source\repos\Listas Enlazadas Dobles\Listas Enlazadas Dobles\bin\Debug\Listas Enlazadas Dobles.pdb
+C:\Users\Sakitowea\source\repos\Listas Enlazadas Dobles\Listas Enlazadas Dobles\obj\Debug\Listas Enlazadas Dobles.csprojResolveAssemblyReference.cache
+C:\Users\Sakitowea\source\repos\Listas Enlazadas Dobles\Listas Enlazadas Dobles\obj\Debug\Listas_Enlazadas_Dobles.Form1.resources
+C:\Users\Sakitowea\source\repos\Listas Enlazadas Dobles\Listas Enlazadas Dobles\obj\Debug\Listas_Enlazadas_Dobles.Properties.Resources.resources
+C:\Users\Sakitowea\source\repos\Listas Enlazadas Dobles\Listas Enlazadas Dobles\obj\Debug\Listas Enlazadas Dobles.csproj.GenerateResource.Cache
+C:\Users\Sakitowea\source\repos\Listas Enlazadas Dobles\Listas Enlazadas Dobles\obj\Debug\Listas Enlazadas Dobles.csproj.CoreCompileInputs.cache
+C:\Users\Sakitowea\source\repos\Listas Enlazadas Dobles\Listas Enlazadas Dobles\obj\Debug\Listas Enlazadas Dobles.exe
+C:\Users\Sakitowea\source\repos\Listas Enlazadas Dobles\Listas Enlazadas Dobles\obj\Debug\Listas Enlazadas Dobles.pdb
