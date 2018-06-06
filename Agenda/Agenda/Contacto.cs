@@ -22,5 +22,15 @@ namespace Agenda
         public string numero { get { return _numero; } set { _numero = value; } }
         public string correo { get { return _correo; } set { _correo = value; } }
         
+        public Contacto()
+        {
+
+        }
+
+        public override string ToString()
+        {
+            string contacto = nombre + " " + apellidoPaterno + " " + apellidoMaterno + ", " + edad + ", " + numero + ", " + correo;
+            return contacto;
+        }
     }
 }

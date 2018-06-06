@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
 
 namespace Agenda
 {
@@ -11,33 +10,47 @@ namespace Agenda
     {
         private Contacto[] agenda = new Contacto[15];
         public int tamaño = 14;
-        public int contador = 0;
+        public int contador;
+
+        public Agenda()
+        {
+            contador = 0;
+        }
 
         public void agregar(Contacto contacto)
         {
-            if (contador < tamaño)
+            agenda[contador] = contacto;
+            if (contador > 0)
             {
-                agenda[contador] = contacto;
-                contador++;
+                ordenar();
             }
-            else
+
+            contador++; 
+        }
+
+        public void ordenar()
+        {
+            Contacto temporal;
+            for (int i = 0; i < contador; i++)
             {
-                MessageBox.Show("No se pueden agregar más elementos.","Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                for (int x = 0; x < contador -i; x++)
+                {
+                    if (Convert.ToInt32(agenda[x].numero) > Convert.ToInt32(agenda[x + 1].numero))
+                    {
+                        temporal = agenda[x];
+                        agenda[x] = agenda[x + 1];
+                        agenda[x + 1] = temporal;
+                    }
+                }
             }
         }
 
-        public string buscar(string numero)
+        public Contacto buscar(string numero)
         {
-            string buscar = "";
-            for (int x = 0; x != tamaño; x++)
-            {
+            for (int x = 0; x < contador; x++)
                 if (agenda[x].numero == numero)
-                {
-                    buscar = agenda[x].nombre + " " + agenda[x].apellidoPaterno + " " + agenda[x].apellidoMaterno + " " + agenda[x].edad + " " + agenda[x].numero + " " + agenda[x].correo;
+                    return agenda[x];
 
-                    return buscar;
-                }
-            }
             return null;
         }
 
@@ -52,7 +65,7 @@ namespace Agenda
             contador--;
         }
 
-        public void insertar(int posicion, Contacto contacto)
+        public bool insertar(int posicion, Contacto contacto)
         {
             if (contador < tamaño)
             {
@@ -61,10 +74,12 @@ namespace Agenda
                     agenda[x] = agenda[x - 1];
                 }
                 agenda[posicion] = contacto;
+                contador++;
+                return true;
             }
             else
             {
-                MessageBox.Show("No se pueden agregar más elementos.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return false;
             }
         }
 
@@ -74,7 +89,7 @@ namespace Agenda
 
             for( int x = 0; x < contador; x++)
             {
-                lista += agenda[x].nombre + " " + agenda[x].apellidoPaterno + " " + agenda[x].apellidoMaterno + " " + agenda[x].edad + " " + agenda[x].numero + " " + agenda[x].correo + Environment.NewLine;
+                lista += agenda[x].ToString() + Environment.NewLine;
             }
 
             return lista;

@@ -30,8 +30,9 @@ namespace Agenda
             contact.numero = txtBoxNumero.Text;
             contact.correo = txtBoxCorreo.Text;
 
-            agenda.agregar(contact);
-
+            if (agenda.contador >= agenda.tamaño)
+                MessageBox.Show("No se pueden agregar más elementos.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+              
             txtBoxNombre.Clear();
             txtBoxAP.Clear();
             txtBoxAM.Clear();
@@ -53,7 +54,10 @@ namespace Agenda
             contact.numero = txtBoxNumero.Text;
             contact.correo = txtBoxCorreo.Text;
 
-            agenda.insertar(Convert.ToInt16(txtBoxPosicion.Text), contact);
+            if(!agenda.insertar(Convert.ToInt16(txtBoxPosicion.Text), contact))
+                MessageBox.Show("No se pueden agregar más elementos.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+
+
 
             txtBoxNombre.Clear();
             txtBoxAP.Clear();
@@ -66,11 +70,15 @@ namespace Agenda
 
         private void cmdBuscar_Click(object sender, EventArgs e)
         {
-            contact = new Contacto();
-            contact.numero = txtBoxNumero.Text;
-
-            txtBoxListar.Text = agenda.buscar(txtBoxNumero.Text);
-
+            txtBoxListar.Clear();
+            if (agenda.buscar(txtBoxNumero.Text) == null)
+            {
+                txtBoxListar.Text += "No existe";
+            }
+            else
+            {
+                txtBoxListar.Text = contact.ToString();
+            }
             txtBoxNombre.Clear();
             txtBoxAP.Clear();
             txtBoxAM.Clear();
@@ -81,6 +89,7 @@ namespace Agenda
 
         private void cmdListar_Click(object sender, EventArgs e)
         {
+            txtBoxListar.Clear();
             txtBoxListar.Text = agenda.ToString();
         }
     }
