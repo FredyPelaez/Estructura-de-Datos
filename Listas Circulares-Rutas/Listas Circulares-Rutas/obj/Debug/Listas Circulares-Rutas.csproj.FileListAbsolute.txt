@@ -1,0 +1,10 @@
+C:\Users\Sakitowea\source\repos\Listas Circulares-Rutas\Listas Circulares-Rutas\bin\Debug\Listas Circulares-Rutas.exe.config
+C:\Users\Sakitowea\source\repos\Listas Circulares-Rutas\Listas Circulares-Rutas\bin\Debug\Listas Circulares-Rutas.exe
+C:\Users\Sakitowea\source\repos\Listas Circulares-Rutas\Listas Circulares-Rutas\bin\Debug\Listas Circulares-Rutas.pdb
+C:\Users\Sakitowea\source\repos\Listas Circulares-Rutas\Listas Circulares-Rutas\obj\Debug\Listas Circulares-Rutas.csprojResolveAssemblyReference.cache
+C:\Users\Sakitowea\source\repos\Listas Circulares-Rutas\Listas Circulares-Rutas\obj\Debug\Listas_Circulares_Rutas.Form1.resources
+C:\Users\Sakitowea\source\repos\Listas Circulares-Rutas\Listas Circulares-Rutas\obj\Debug\Listas_Circulares_Rutas.Properties.Resources.resources
+C:\Users\Sakitowea\source\repos\Listas Circulares-Rutas\Listas Circulares-Rutas\obj\Debug\Listas Circulares-Rutas.csproj.GenerateResource.Cache
+C:\Users\Sakitowea\source\repos\Listas Circulares-Rutas\Listas Circulares-Rutas\obj\Debug\Listas Circulares-Rutas.csproj.CoreCompileInputs.cache
+C:\Users\Sakitowea\source\repos\Listas Circulares-Rutas\Listas Circulares-Rutas\obj\Debug\Listas Circulares-Rutas.exe
+C:\Users\Sakitowea\source\repos\Listas Circulares-Rutas\Listas Circulares-Rutas\obj\Debug\Listas Circulares-Rutas.pdb
