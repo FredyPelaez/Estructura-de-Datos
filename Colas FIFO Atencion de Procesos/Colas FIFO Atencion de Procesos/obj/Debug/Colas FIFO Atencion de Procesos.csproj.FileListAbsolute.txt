@@ -1,0 +1,10 @@
+C:\Users\Sakitowea\source\repos\Colas FIFO Atencion de Procesos\Colas FIFO Atencion de Procesos\bin\Debug\Colas FIFO Atencion de Procesos.exe.config
+C:\Users\Sakitowea\source\repos\Colas FIFO Atencion de Procesos\Colas FIFO Atencion de Procesos\bin\Debug\Colas FIFO Atencion de Procesos.exe
+C:\Users\Sakitowea\source\repos\Colas FIFO Atencion de Procesos\Colas FIFO Atencion de Procesos\bin\Debug\Colas FIFO Atencion de Procesos.pdb
+C:\Users\Sakitowea\source\repos\Colas FIFO Atencion de Procesos\Colas FIFO Atencion de Procesos\obj\Debug\Colas FIFO Atencion de Procesos.csprojResolveAssemblyReference.cache
+C:\Users\Sakitowea\source\repos\Colas FIFO Atencion de Procesos\Colas FIFO Atencion de Procesos\obj\Debug\Colas_FIFO_Atencion_de_Procesos.Form1.resources
+C:\Users\Sakitowea\source\repos\Colas FIFO Atencion de Procesos\Colas FIFO Atencion de Procesos\obj\Debug\Colas_FIFO_Atencion_de_Procesos.Properties.Resources.resources
+C:\Users\Sakitowea\source\repos\Colas FIFO Atencion de Procesos\Colas FIFO Atencion de Procesos\obj\Debug\Colas FIFO Atencion de Procesos.csproj.GenerateResource.Cache
+C:\Users\Sakitowea\source\repos\Colas FIFO Atencion de Procesos\Colas FIFO Atencion de Procesos\obj\Debug\Colas FIFO Atencion de Procesos.csproj.CoreCompileInputs.cache
+C:\Users\Sakitowea\source\repos\Colas FIFO Atencion de Procesos\Colas FIFO Atencion de Procesos\obj\Debug\Colas FIFO Atencion de Procesos.exe
+C:\Users\Sakitowea\source\repos\Colas FIFO Atencion de Procesos\Colas FIFO Atencion de Procesos\obj\Debug\Colas FIFO Atencion de Procesos.pdb
