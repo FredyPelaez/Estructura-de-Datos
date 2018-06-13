@@ -1,0 +1,10 @@
+C:\Users\Sakitowea\source\repos\Analizador de Expresiones Aritmeticas\Analizador de Expresiones Aritmeticas\bin\Debug\Analizador de Expresiones Aritmeticas.exe.config
+C:\Users\Sakitowea\source\repos\Analizador de Expresiones Aritmeticas\Analizador de Expresiones Aritmeticas\bin\Debug\Analizador de Expresiones Aritmeticas.exe
+C:\Users\Sakitowea\source\repos\Analizador de Expresiones Aritmeticas\Analizador de Expresiones Aritmeticas\bin\Debug\Analizador de Expresiones Aritmeticas.pdb
+C:\Users\Sakitowea\source\repos\Analizador de Expresiones Aritmeticas\Analizador de Expresiones Aritmeticas\obj\Debug\Analizador de Expresiones Aritmeticas.csprojResolveAssemblyReference.cache
+C:\Users\Sakitowea\source\repos\Analizador de Expresiones Aritmeticas\Analizador de Expresiones Aritmeticas\obj\Debug\Analizador_de_Expresiones_Aritmeticas.Form1.resources
+C:\Users\Sakitowea\source\repos\Analizador de Expresiones Aritmeticas\Analizador de Expresiones Aritmeticas\obj\Debug\Analizador_de_Expresiones_Aritmeticas.Properties.Resources.resources
+C:\Users\Sakitowea\source\repos\Analizador de Expresiones Aritmeticas\Analizador de Expresiones Aritmeticas\obj\Debug\Analizador de Expresiones Aritmeticas.csproj.GenerateResource.Cache
+C:\Users\Sakitowea\source\repos\Analizador de Expresiones Aritmeticas\Analizador de Expresiones Aritmeticas\obj\Debug\Analizador de Expresiones Aritmeticas.csproj.CoreCompileInputs.cache
+C:\Users\Sakitowea\source\repos\Analizador de Expresiones Aritmeticas\Analizador de Expresiones Aritmeticas\obj\Debug\Analizador de Expresiones Aritmeticas.exe
+C:\Users\Sakitowea\source\repos\Analizador de Expresiones Aritmeticas\Analizador de Expresiones Aritmeticas\obj\Debug\Analizador de Expresiones Aritmeticas.pdb
