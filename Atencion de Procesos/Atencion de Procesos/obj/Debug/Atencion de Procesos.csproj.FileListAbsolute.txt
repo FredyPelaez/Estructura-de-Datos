@@ -1,0 +1,10 @@
+c:\users\sakitowea\source\repos\Atencion de Procesos\Atencion de Procesos\bin\Debug\Atencion de Procesos.exe.config
+c:\users\sakitowea\source\repos\Atencion de Procesos\Atencion de Procesos\bin\Debug\Atencion de Procesos.exe
+c:\users\sakitowea\source\repos\Atencion de Procesos\Atencion de Procesos\bin\Debug\Atencion de Procesos.pdb
+c:\users\sakitowea\source\repos\Atencion de Procesos\Atencion de Procesos\obj\Debug\Atencion de Procesos.csprojResolveAssemblyReference.cache
+c:\users\sakitowea\source\repos\Atencion de Procesos\Atencion de Procesos\obj\Debug\Atencion_de_Procesos.Form1.resources
+c:\users\sakitowea\source\repos\Atencion de Procesos\Atencion de Procesos\obj\Debug\Atencion_de_Procesos.Properties.Resources.resources
+c:\users\sakitowea\source\repos\Atencion de Procesos\Atencion de Procesos\obj\Debug\Atencion de Procesos.csproj.GenerateResource.Cache
+c:\users\sakitowea\source\repos\Atencion de Procesos\Atencion de Procesos\obj\Debug\Atencion de Procesos.csproj.CoreCompileInputs.cache
+c:\users\sakitowea\source\repos\Atencion de Procesos\Atencion de Procesos\obj\Debug\Atencion de Procesos.exe
+c:\users\sakitowea\source\repos\Atencion de Procesos\Atencion de Procesos\obj\Debug\Atencion de Procesos.pdb
